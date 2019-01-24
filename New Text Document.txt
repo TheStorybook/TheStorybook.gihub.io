@@ -1,0 +1,28 @@
+pre-filled form google forms
+
+encodeURI() js
+
+change viewform parameter to submitrepsonseI think. Check silent submission of forms
+
+#myDiv.fullscreen {
+    z-index: 9999;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+$('button').click(function(e){
+    $('#myDiv').toggleClass('fullscreen'); 
+});
+
+Modify to make card as button using jquery:
+
+$('.card-deck-wrapper').on('click', function(event) {
+     alert('You clicked the Bootstrap Card');
+});
+
+scroll-behavior: smooth //not auto.
+
+statcounter.com
